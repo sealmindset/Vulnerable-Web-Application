@@ -1,4 +1,4 @@
-[![DepShield Badge](https://depshield.sonatype.org/badges/sonatype-nexus-community/struts2-rce/depshield.svg)](https://depshield.github.io)
+[![DepShield Badge](https://depshield.sonatype.org/badges/sealmindset/Vulnerable-Web-Application/depshield.svg)](https://depshield.github.io)
 
 # Vulnerable Web Application 
 
